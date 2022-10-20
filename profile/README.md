@@ -13,7 +13,7 @@ Open Science community Saudi Arabia (OSCSA) aims to provide a place where newcom
 **Here's how to get started:**
 
 - 👩‍💻 Check out the [website](https://osc-ksa.com/).
-- 🍿 Join our community from [this form](https://form.jotform.com/221813832742353), get involved!
+- 🍿 Join our community from [this form](https://form.jotform.com/222925373492360), get involved!
 - 📚 See available materials/workshops on the [Zenodo](https://zenodo.org/communities/1231231664/?page=1&size=20).
 - 🙋‍♀️ Come and say hi on our [Discussion](https://github.com/orgs/Open-Science-Community-Saudi-Arabia/discussions)!
 - 🤗 Please abide by our community [code of conduct](https://github.com/Open-Science-Community-Saudi-Arabia/Open-Science-Community-in-Saudi/blob/main/CODE_OF_CONDUCT.md).
